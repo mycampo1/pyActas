@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pyactas",
+  "private_key_id": "1f39541133bb08219df30f0fcca0f060267c5b79",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZKFUbL3Ad9LBp\ng84GmK6ax2l04T4pHW1kwmrmIc1hxv/sgAavMRFScSYJ5U9Nvjn/D/onGbw3bIA5\n4WlcUossulOOUGegU4PMU8oAK7nUOMwFdnzEJFtL6KTv/l+6e7WzN/3lE7wLAq4B\n9OEiJd+AMgqvMGVvPavFyjhzSG+0fJ7gj6iFtXo/5kwKMftOsugDP8TBDzk2m5F7\n6ktEgnSZXH2g7OiG4pcnkV2i3xJ4n2MFvMxZ+A3vIdZXxUFH84RexWlEdbEIB3SV\nmLkV4Wfq3CPIbXm5LmXca7gF9XJGnDRLAKIA8j2uWVsHqaDB4cRvcrhQWjjkhaFq\nFQSTUx45AgMBAAECggEAAVuwtC7YV9j+ztNlj9G/IU3puv4brtdSdtrHLObu1dJN\nxwX0SThuVrn8eYj9ijXIzjYQ5KjfQ5SO5zR/BTERh+ItHILNBchyekI3SoduEe+L\nq567M4K+W9l3y6MIq/Qt49AizGsU4foc8JUrK+zZuF7OkR16QMweClZ6kqx5RR30\nR+7FPaTjXDBdDYR1o/wk71rXmuOYiUtM133cBeXpPAIT9jSWCpy87qQ5Gr0E+AZS\nSYl7pN8PGY9AaV/6uHBk5bVIeMOMyNWMgo+xdfnPYmvcVFupnzKSqrP3fYmRoWVB\n+s2C2dSnvMTQLJ8oFeOMBrYaVuX0aEleKxK7AJAV6QKBgQDMJHO0jnF8h+nWpruB\ngX/wfmhRjiew1slZJIVXAq+1pMiCe9pyDU1EKwWFSpfmoLnkH5o5miON09gnTLrv\n2L0jOyGUTlFJIk/VJFQLGiQF8z4B+yLpF4lXbN8GEALbcB5dzcN+5+CvEYCRXxH2\nW7Gbnos2MTalkHHzTqJs4l1fxQKBgQDAEEtNkgrMbEUIkNQC0cWvuAl2scBcl/uR\nC7ANQHUVLkq5wOmI9jF1nkkmG+A5jXjZoSb4yabZQRa+/fJqgUurK6LfJUP0BnXp\nP/2Hu5ohoHBbaQJVOfg49/hiTZRlhK620gmts+Y2QPtRbr34fkiSIIDZ2krdcfuL\n2R/kuMbX5QKBgCmqRvNTH1aLZu6omRyVkcdEBYafvPoa3H2VNqHLqpEoUMRRAwTE\nMkD3hujtkJNBuq8UxCV9kEQiOLvMrVrGodPO/cuHMI/8sM6P25dofnG4c69z0mxA\noYd2cQ6LtgmTmJ8MoBoGuZUBvXvuK3xcuqNIeKFW6hBgquE962jNysEBAoGBAIUE\ng/LEW6A6uBD3pS4StLQ/ZKaE8vHt/Lf2/UYgRzaVKgG+Pr+xqo2IQ6cWFVQmy/UF\n7GTP3DOJJcS/Qj5LL+nrvdCIEakXNGCIBgIUhuoVINvePVRjYqup6afDjSxGGW7a\nxwM7ngwjMyux4/YPGBnEUxkOW11FDO9NQA57fpOVAoGAPxI4yTkRwFFP0a+k9pSf\nkQop5mgOJzacH0U6ks6AncpaqVEjt9ePUNCUpoat7a051GBTq8qd1MOW3qI9ekQC\nYa1ASVe5e2Ksue4wu3FG7OMK8TkMk8B1d34Ex07EnoHV/wK6VbH1KAoIYosXCu08\nswYu/+8gZITnOXSCR7BMP1M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pyactasgs@pyactas.iam.gserviceaccount.com",
+  "client_id": "116502302045001457616",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pyactasgs%40pyactas.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
